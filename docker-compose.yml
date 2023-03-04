@@ -10,7 +10,7 @@ services:
       EULA: "true"
       TYPE: "PAPER"
       PAPERBUILD: "431"
-      MEMORY: "2G"
+      MEMORY: "3G"
     ports:
       - "25565:25565"
     networks:
